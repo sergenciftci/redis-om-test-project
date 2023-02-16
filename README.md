@@ -1,3 +1,3 @@
 # redis-om-test-project
 
-Testing different ways to search in EmbeddedJsonModel.
+Test environment for redis-om.
